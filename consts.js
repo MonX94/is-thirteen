@@ -159,13 +159,11 @@ var thirteenStrings = [
     "threttandans",
     "threttandar",
     "threttandu",
-
     "threttandum",
     "threttandarnir",
     "threttandana",
     "threttandunum",
-    "threttandanna",// end of Icelandic
-
+    "threttandanna",
     "threttandum", // end of Icelandic
     "třináct", // Czech
 
@@ -257,7 +255,11 @@ var thirteenStrings = [
     "ਤੇਰਾਂ", // Punjabi - thirteen
     "੧੩", // Punjabi Numeral - 13
     "treisprezece", // Romanian
-    "тринадцать", // Russian
+  
+    "тринадцать", // Russian variants
+    "тринадцати",
+    "тринадцатью", // End of Russian
+  
     "тринаест", // Serbian (cyrillic)
     "trinásť", // Slovak
     "trinajst", // Slovenian
@@ -273,7 +275,10 @@ var thirteenStrings = [
     "๑๓", // Thai Numeral
     "SipSam", // Thai Transcription
     "Sip Sam", // Thai Transcription with space
+  
     "тринадцять", // Ukrainian
+    "тринадцяти", //End of Ukrainian
+  
     "تیرہ", // Urdu
     "mười ba", // Vietnamese
     "tri ar ddeg", // Welsh
@@ -283,7 +288,6 @@ var thirteenStrings = [
     "तेह्र", //Nepali
     "१३", //Devanagari
     "तेरह", //Hindi
-    "β", //Think this is beta, which looks like a long 1 mashed together with a 3
     // Thirteen pronunciation
     "θərˈtiːn",
     "పదమూడు", //Telugu
